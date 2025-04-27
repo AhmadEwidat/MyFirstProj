@@ -68,4 +68,4 @@ The **Inventory Management System** is a Java-based application designed to help
 1. **Clone the Repository**
    - Clone the repository to your local machine using the following command:
    ```bash
-   git clone https://github.com/AhmadEwidat/inventory-management-system.git
+   git clone https://github.com/AhmadEwidat/MyFirstProj.git
